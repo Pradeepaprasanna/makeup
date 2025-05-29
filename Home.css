@@ -1,0 +1,140 @@
+
+*{
+  margin: 0px;
+  padding: 0px;
+
+}
+body{
+  
+background-image:url('123.jpg') ;
+     background-size:cover; 
+
+}
+.nav{
+  color: transparent;
+  float: left;
+  display: flex;
+  margin: 20px 70px;
+}
+
+
+.nav li{
+  display: flex;
+  margin: 0px 40px;
+}
+.nav li a{
+  text-decoration: none;
+  color:white;
+  font-size: 21px;
+  
+  
+}
+.container{
+   width:95%;
+   height: 850px;
+    margin: 0px auto;
+  border: 50px solid;
+  
+
+}
+h1{
+  margin-top:170px;
+  margin-left: 680px;
+  font-style: italic;
+  font-size:50px;
+  color: white;
+}
+h2{
+  margin-top:10px;
+  margin-left: 600px;
+  font-size: 60px;
+  color: white;
+ font-style: italic;
+  
+}
+p{
+  margin-top: 30px;
+  align-items: center;
+  margin: 0px 600px;
+  font-size:18px;
+  font-style: italic;
+}
+button{
+  margin-left: 800px;
+  border: solid 5px cornsilk;
+  height: 20px;
+  border-radius: 8px; 
+  width: 150px;
+  height: 50px;
+  font-size: 18px;
+  
+
+}
+h3{
+align-items: center;
+margin-top: 25px;
+margin-right:2px;
+margin-left:200px;
+margin-bottom: 100px;
+font-size:30px;
+
+
+}
+.bi-facebook{
+margin-left:5px;
+margin-top: 25PX;
+/* margin-bottom: 800px; */
+width:30px;
+height:30px;
+/* margin-bottom:300px; */
+
+}
+.bi-instagram{
+margin-left:10px;
+margin-top: 25px;
+width:30px;
+height:30px;
+/* margin-bottom:300px; */
+
+} 
+.bi-twitter{
+margin-left:10px;
+margin-top: 25px;
+width:30px;
+height:30px;
+ /* margin-bottom:300px;  */
+}
+/* .icon svg{
+  position: relative;
+  display:flex; 
+  float: left;
+}*/
+.icon{
+  /* overflow: auto; */
+  /* background-color: aquamarine; */
+  /* width: 700px; */
+ margin-bottom: 800px; 
+  display: inline;
+  margin-left: 0%;
+  margin-right: 2%;
+
+
+}
+#fi
+{
+  width: 30%;
+  display:flex;
+  margin: 0px auto;
+   flex-wrap: nowrap; 
+   justify-content: space-around;
+}
+#fi div
+{
+  display:inline;
+  flex-basis: 25%;
+}
+#pos
+{
+  margin-left: 0px;
+}
+

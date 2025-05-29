@@ -1,0 +1,159 @@
+* {
+  margin: 0%;
+  padding: 0%;
+}
+
+body {
+  background-image: url('mirror-face-powder-ball-compact-powder-with-lipstick-makeup-brushes.jpg');
+  background-size: cover;
+
+}ul{
+  display: flex;
+  text-decoration: none;
+  width: 500px;
+
+}
+
+
+.nav {
+  color: transparent; 
+  /* display:flex; */
+   margin: 20px 70px 
+}
+
+
+li {
+  display: flex;
+  margin: 0px 40px; 
+   list-style: none;
+}
+
+ li a {
+  text-decoration: none;
+  color:black;
+  font-size: 21px; 
+  padding: 0px 20px;
+
+
+}
+h1{
+  text-align: center;
+  margin-top: 30px;
+  margin-right:70px;
+  color: brown;
+
+}
+
+
+.hero {
+  text-align: center;
+  padding:20px 30px;
+  margin-right: 100px;
+  color: rgb(197, 25, 145);
+  /* display: flex; */
+
+ } 
+
+ .hero h2{
+  font-size: 2.5em;
+  margin-top:  10px;
+}
+
+.hero p {
+
+  font-size: 20px;
+}
+
+ button {
+  background-color: #ff69b4;
+  color: white;
+  border: none;
+  padding: 15px 30px;
+  font-size: 15px;
+  border-radius: 25px;
+}
+.product-card{
+  display: flex;
+  /* flex-wrap: wrap; */
+}
+
+.product-card img {
+  /* display: flex;
+  flex-wrap: wrap; */
+  height: 200px;
+  margin-top: 70px;
+  margin-right: 80%;
+  box-shadow: 0px 0px 10px;
+  border-radius: 20px;
+  gap:14PX;
+  padding: 20PX;
+  color: #ff69b4;
+
+
+}
+
+h3 {
+  text-align: left;
+  margin-left: 60px;
+
+}
+
+.product-card p {
+  text-align: left;
+  margin-left: 100px;
+
+}
+
+.product-card img {
+   display: flex;
+  /* flex-wrap: wrap; */
+  height: 200px;
+  margin-top: 0%;
+  margin-right: 20%;
+  margin-left: 10px;
+  /* box-shadow: 0px 0px 5px; */
+  /* border-radius: 30px; */
+  gap:116px;
+  padding: 20PX;
+  color: #ff69b4;
+  margin: 0px 20px;
+  
+
+}
+
+h3 {
+  text-align: left;
+  margin-left: 60px;
+
+}
+
+.product-card p {
+  text-align: left;
+  margin-left: 100px;
+
+}
+
+.product-card img {
+  /* display: flex;
+  flex-wrap: wrap; */
+  height: 200px;
+  margin-top: 70px;
+  margin-right: 20%;
+  box-shadow: 0px 0px 10px;
+  border-radius: 30px;
+  gap:14PX;
+  padding: 20PX;
+  color: #ff69b4;
+}
+
+h3 {
+  text-align: left;
+  margin-left: 60px;
+
+}
+
+.product-card p {
+  text-align: left;
+  margin-left: 100px;
+
+}
