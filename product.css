@@ -1,0 +1,31 @@
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  background-image:url('ppt.jpg');
+  background-size: cover;
+}
+.container{
+  width:80%;
+  margin:40px;
+  padding:20px;
+  margin: left;
+}
+h1{
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 10px;
+
+}
+.course-contant li{
+  margin-bottom: 10px;
+
+
+}
+
+.image-container img{
+  image-rendering: center;
+  width:50px;
+  height:auto;
+  margin: 500px auto;
+  
+
+}
